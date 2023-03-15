@@ -1,4 +1,4 @@
-// Define a function called `findAndFilterArray` that takes two parameters:
+// Define a function called `findAndFilterArray` that takes two parameters
 // 1. `checkObject`, which is an object of key-value pairs to match against
 // 2. `unpredictableObject`, which is an object that may contain an array with the key "xyz"
 
